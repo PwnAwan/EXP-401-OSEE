@@ -1,4 +1,4 @@
-### EXP-401 Study Repository
+### EXP-401 Preparation Repository
  A bunch of resources to prepare for the OSEE certification, Offensive Security's hardest course. I will personally use this repository myself, and upload my own proof-of-concept exploits for some of these bugs. I will also be actively updated this repository with more resources and other suggested exploits to try out yourself!
 
 ### Course Overview
