@@ -10,6 +10,9 @@
 
  This is the hardest course we offer and it requires a significant time investment. Students need to commit to reading case studies and reviewing the provided reading material each evening."
  
+### Side Note
+ I have been informed that the case studies in this repository are out-of-date. After looking over their syllabus provided [here](https://www.offensive-security.com/awe/EXP401_syllabus.pdf), I will ensure to update this repository when I am available (this weekend?). If you have any questions, concerns, concerning questions, or suggestions, please feel free to create an issue on this repository. I will work to resolve it.
+ 
 ### Exploits Covered In The Course (In Order)
 - [ ] [CVE-2015-3104](https://www.cvedetails.com/cve/CVE-2015-3104/)
 - [ ] [CVE-2017-8601](https://www.exploit-db.com/exploits/42479)
